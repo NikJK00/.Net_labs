@@ -1,0 +1,15 @@
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..exe
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..deps.json
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..runtimeconfig.json
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..dll
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\bin\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..pdb
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..csproj.AssemblyReference.cache
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..AssemblyInfoInputs.cache
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..AssemblyInfo.cs
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..csproj.CoreCompileInputs.cache
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..dll
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\refint\JonDou9000.TaskPlanner.Domain.Models..dll
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..pdb
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\JonDou9000.TaskPlanner.Domain.Models..genruntimeconfig.cache
+D:\Repositories\JonDou9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\ref\JonDou9000.TaskPlanner.Domain.Models..dll
