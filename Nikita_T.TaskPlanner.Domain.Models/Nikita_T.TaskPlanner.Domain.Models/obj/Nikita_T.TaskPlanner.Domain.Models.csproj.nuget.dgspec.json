@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models..csproj": {}
+    "D:\\Repositories\\Nikita_T.TaskPlanner.Domain.Models\\Nikita_T.TaskPlanner.Domain.Models\\Nikita_T.TaskPlanner.Domain.Models.csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models..csproj": {
+    "D:\\Repositories\\Nikita_T.TaskPlanner.Domain.Models\\Nikita_T.TaskPlanner.Domain.Models\\Nikita_T.TaskPlanner.Domain.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models..csproj",
-        "projectName": "JonDou9000.TaskPlanner.Domain.Models.",
-        "projectPath": "D:\\Repositories\\JonDou9000.TaskPlanner.Domain.Models\\JonDou9000.TaskPlanner.Domain.Models..csproj",
+        "projectUniqueName": "D:\\Repositories\\Nikita_T.TaskPlanner.Domain.Models\\Nikita_T.TaskPlanner.Domain.Models\\Nikita_T.TaskPlanner.Domain.Models.csproj",
+        "projectName": "Nikita_T.TaskPlanner.Domain.Models",
+        "projectPath": "D:\\Repositories\\Nikita_T.TaskPlanner.Domain.Models\\Nikita_T.TaskPlanner.Domain.Models\\Nikita_T.TaskPlanner.Domain.Models.csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\JonDou9000.TaskPlanner.Domain.Models\\obj\\",
+        "outputPath": "D:\\Repositories\\Nikita_T.TaskPlanner.Domain.Models\\Nikita_T.TaskPlanner.Domain.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VStudio\\Shared\\NuGetPackages"
