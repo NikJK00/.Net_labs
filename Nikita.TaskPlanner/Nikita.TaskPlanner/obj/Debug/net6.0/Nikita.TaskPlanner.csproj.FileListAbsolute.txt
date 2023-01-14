@@ -1,0 +1,15 @@
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\bin\Debug\net6.0\Nikita.TaskPlanner.exe
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\bin\Debug\net6.0\Nikita.TaskPlanner.deps.json
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\bin\Debug\net6.0\Nikita.TaskPlanner.runtimeconfig.json
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\bin\Debug\net6.0\Nikita.TaskPlanner.dll
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\bin\Debug\net6.0\Nikita.TaskPlanner.pdb
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\Nikita.TaskPlanner.csproj.AssemblyReference.cache
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\Nikita.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\Nikita.TaskPlanner.AssemblyInfoInputs.cache
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\Nikita.TaskPlanner.AssemblyInfo.cs
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\Nikita.TaskPlanner.csproj.CoreCompileInputs.cache
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\Nikita.TaskPlanner.dll
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\refint\Nikita.TaskPlanner.dll
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\Nikita.TaskPlanner.pdb
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\Nikita.TaskPlanner.genruntimeconfig.cache
+D:\Repositories\Nikita.TaskPlanner\Nikita.TaskPlanner\obj\Debug\net6.0\ref\Nikita.TaskPlanner.dll
